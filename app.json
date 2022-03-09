@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "hgjrhtrdy/fimngfoj",
+  "description": "hgjrhtrdy/fimngfoj",
   "keywords": [
-    "vmess or vles"
+    "hgjrhtrdy/fimngfoj"
   ],
   "env": {
     "PROTOCOL": {
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/hgjrhtrdy/fimngfoj",
+  "repository": "https://github.com/hgjrhtrdy/fimngfoj",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
